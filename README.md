@@ -20,7 +20,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência em pro
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:rafaelfst7@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rafaelfst7/)
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00F6&repeat=false&width=435&lines=%E2%8B%A8+My+Stacks+%E2%8B%A9" alt="Typing SVG" /></a></h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -42,8 +42,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência em pro
 #
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  
+  <a href="https://git.io/typing-svg">
+  <div align="center">
+  <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00F6&repeat=false&width=435&lines=%E2%8B%A8+Github+Stats+%E2%8B%A9" alt="Typing SVG" /></a></h3>
+  </a>
+</div>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaelTorres7&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
   <a href="https://github.com/RafaelTorres7/github-readme-stats">
