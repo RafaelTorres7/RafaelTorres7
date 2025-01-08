@@ -17,8 +17,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência em pro
 
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF&repeat=false&width=435&lines=%E2%8B%A8+Connect+with+me++%E2%8B%A9" alt="Typing SVG" /></a></h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:rafaelfst7@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfst7/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:rafaelfst7@outlook.com)
+
 
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF&repeat=false&width=435&lines=%E2%8B%A8+My+Stacks+%E2%8B%A9" alt="Typing SVG" /></a></h3>
 
